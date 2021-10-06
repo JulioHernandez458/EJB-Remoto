@@ -1,0 +1,7 @@
+domain\EjbRectanguloImpl.class
+domain\IEjbCuadrado.class
+main\App.class
+domain\EjbCuadradoImpl.class
+domain\IEjbRectangulo.class
+domain\EjbTrianguloImpl.class
+domain\IEjbTriangulo.class
